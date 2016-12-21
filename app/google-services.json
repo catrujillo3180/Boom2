@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "947771357884",
+    "firebase_url": "https://beanssantiago.firebaseio.com",
+    "project_id": "beanssantiago",
+    "storage_bucket": "beanssantiago.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947771357884:android:ef6fda54166c5858",
+        "android_client_info": {
+          "package_name": "com.rerum.beans"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947771357884-gercqep24118n5s2hj779kabo9ghn1t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGwI3oen6UbQ9z9Ujm80fv6cKExDquoU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947771357884-gercqep24118n5s2hj779kabo9ghn1t7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

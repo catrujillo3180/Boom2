@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_search"
+        icon="@drawable/ic_favorites"/>
+    <tab
+        id="@+id/tab_profile"
+        icon="@drawable/ic_friends" />
+</tabs>
