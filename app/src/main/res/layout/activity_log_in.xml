@@ -207,6 +207,18 @@
             android:backgroundTint="@android:color/transparent"
             android:textSize="18sp"/>
 
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/google_login_button"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_below="@id/facebook_login_button"
+            android:layout_centerHorizontal="true"
+            android:background="@android:color/transparent"
+            android:backgroundTint="@android:color/transparent"
+            android:visibility="visible"/>
+
+
         <TextView
             android:text="beans"
             android:layout_width="match_parent"
